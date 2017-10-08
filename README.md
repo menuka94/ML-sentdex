@@ -1,2 +1,5 @@
-## Introduction to Machine Learning with Python
-### Sentdex Tutorial Series
+# Machine Learning Tutorials Collection
+ 
+ ## Google ML Recipes
+ ## Sentdex
+ ## Siraj Raval
